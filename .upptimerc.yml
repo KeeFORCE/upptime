@@ -7,8 +7,8 @@ sites:
     url: https://na1vsa107.kaseya.net/vsapres/web20/core/login.aspx
   - name: ConnectWise Manage
     url: https://connect.keeforce.com/
-  - name: 3cx Phone
-    url: https://keephone01.keeforce.com/webclient/#/login
+  #- name: 3cx Phone
+    #url: https://keephone01.keeforce.com/webclient/#/login
   - name: KF JR Cloud
     url: https://keeforce.keeforcecloud.com/jobrouter/#/login
 
