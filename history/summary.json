@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 375,
-    "timeDay": 375,
-    "timeWeek": 375,
-    "timeMonth": 375,
-    "timeYear": 375,
+    "time": 428,
+    "timeDay": 428,
+    "timeWeek": 428,
+    "timeMonth": 428,
+    "timeYear": 428,
     "dailyMinutesDown": {}
   },
   {
@@ -28,32 +28,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 562,
-    "timeDay": 562,
-    "timeWeek": 562,
-    "timeMonth": 562,
-    "timeYear": 562,
+    "time": 525,
+    "timeDay": 525,
+    "timeWeek": 525,
+    "timeMonth": 525,
+    "timeYear": 525,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "3cx Phone",
-    "url": "https://keephone01.keeforce.com/webclient/#/login",
-    "icon": "https://favicons.githubusercontent.com/keephone01.keeforce.com",
-    "slug": "3cx-phone",
-    "status": "down",
-    "uptime": "0.16%",
-    "uptimeDay": "0.16%",
-    "uptimeWeek": "0.16%",
-    "uptimeMonth": "0.16%",
-    "uptimeYear": "0.16%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2021-07-13": 8
-    }
   },
   {
     "name": "KF JR Cloud",
@@ -66,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 224,
-    "timeDay": 224,
-    "timeWeek": 224,
-    "timeMonth": 224,
-    "timeYear": 224,
+    "time": 241,
+    "timeDay": 241,
+    "timeWeek": 241,
+    "timeMonth": 241,
+    "timeYear": 241,
     "dailyMinutesDown": {}
   }
 ]
