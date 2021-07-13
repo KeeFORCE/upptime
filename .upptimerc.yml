@@ -5,12 +5,25 @@ repo: upptime # The name of this repository
 sites:
   - name: Kaseya VSA
     url: https://na1vsa107.kaseya.net/vsapres/web20/core/login.aspx
+    expectedStatusCodes:
+      - 200
+      - 201
   - name: ConnectWise Manage
     url: https://connect.keeforce.com/
-  #- name: 3cx Phone
-    #url: https://keephone01.keeforce.com/webclient/#/login
+    expectedStatusCodes:
+      - 200
+      - 201
+  - name: 3cx Phone
+    url: https://keephone01.keeforce.com/webclient/#/login
+    expectedStatusCodes:
+      - 200
+      - 201
+    __dangerous__insecure: true
   - name: KF JR Cloud
     url: https://keeforce.keeforcecloud.com/jobrouter/#/login
+    expectedStatusCodes:
+      - 200
+      - 201
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
