@@ -26,9 +26,9 @@
     "url": "https://connect.keeforce.com/",
     "icon": "https://favicons.githubusercontent.com/connect.keeforce.com",
     "slug": "connect-wise-manage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.81%",
@@ -38,6 +38,7 @@
     "timeMonth": 427,
     "timeYear": 372,
     "dailyMinutesDown": {
+      "2021-09-13": 0,
       "2021-09-01": 22,
       "2021-08-23": 135,
       "2021-08-18": 13
