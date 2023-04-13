@@ -6,7 +6,7 @@
     "slug": "kaseya-vsa",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.69%",
@@ -16,6 +16,7 @@
     "timeMonth": 524,
     "timeYear": 393,
     "dailyMinutesDown": {
+      "2023-04-13": 0,
       "2023-03-25": 83,
       "2023-03-04": 109,
       "2023-03-03": 25,
