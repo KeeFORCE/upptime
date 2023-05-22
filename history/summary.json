@@ -6,14 +6,14 @@
     "slug": "kaseya-vsa",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "96.44%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.49%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.65%",
     "time": 429,
-    "timeDay": 395,
-    "timeWeek": 580,
-    "timeMonth": 530,
+    "timeDay": 763,
+    "timeWeek": 644,
+    "timeMonth": 547,
     "timeYear": 403,
     "dailyMinutesDown": {
       "2023-05-20": 51,
@@ -41,8 +41,7 @@
       "2022-06-30": 196,
       "2022-06-21": 19,
       "2022-06-17": 18,
-      "2022-06-04": 31,
-      "2022-05-22": 94
+      "2022-06-04": 31
     }
   },
   {
@@ -57,10 +56,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 389,
-    "timeDay": 218,
-    "timeWeek": 339,
-    "timeMonth": 310,
-    "timeYear": 362,
+    "timeDay": 354,
+    "timeWeek": 364,
+    "timeMonth": 315,
+    "timeYear": 360,
     "dailyMinutesDown": {
       "2023-01-25": 101,
       "2022-11-18": 17,
@@ -80,9 +79,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 228,
-    "timeDay": 47,
-    "timeWeek": 198,
-    "timeMonth": 183,
+    "timeDay": 231,
+    "timeWeek": 225,
+    "timeMonth": 188,
     "timeYear": 221,
     "dailyMinutesDown": {
       "2023-01-13": 22
@@ -99,11 +98,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.94%",
-    "time": 725,
-    "timeDay": 2007,
-    "timeWeek": 2075,
-    "timeMonth": 1335,
-    "timeYear": 793,
+    "time": 729,
+    "timeDay": 2053,
+    "timeWeek": 2185,
+    "timeMonth": 1375,
+    "timeYear": 797,
     "dailyMinutesDown": {
       "2023-05-04": 58,
       "2023-04-29": 25,
