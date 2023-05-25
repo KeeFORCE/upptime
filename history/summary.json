@@ -72,9 +72,9 @@
     "url": "https://keephone01.keeforce.com/webclient/#/login",
     "icon": "https://icons.duckduckgo.com/ip3/keephone01.keeforce.com.ico",
     "slug": "3-cx-phone",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -84,6 +84,7 @@
     "timeMonth": 184,
     "timeYear": 220,
     "dailyMinutesDown": {
+      "2023-05-25": 0,
       "2023-01-13": 22
     }
   },
