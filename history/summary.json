@@ -4,7 +4,7 @@
     "url": "https://na1vsa107.kaseya.net/vsapres/web20/core/login.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/na1vsa107.kaseya.net.ico",
     "slug": "kaseya-vsa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 266,
     "timeYear": 455,
     "dailyMinutesDown": {
+      "2024-06-22": 0,
       "2024-06-08": 36,
       "2024-05-04": 84,
       "2024-02-10": 17,
