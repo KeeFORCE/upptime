@@ -55,19 +55,19 @@
     "url": "https://keephone01.keeforce.com/webclient/#/login",
     "icon": "https://icons.duckduckgo.com/ip3/keephone01.keeforce.com.ico",
     "slug": "3-cx-phone",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 167,
-    "timeDay": 198,
+    "timeDay": 186,
     "timeWeek": 180,
     "timeMonth": 180,
     "timeYear": 168,
     "dailyMinutesDown": {
-      "2024-10-16": 0
+      "2024-10-16": 20
     }
   },
   {
