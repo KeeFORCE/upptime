@@ -1,7 +1,7 @@
 url: https://na1vsa107.kaseya.net/vsapres/web20/core/login.aspx
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-09-06T11:18:20.993Z
+status: up
+code: 200
+responseTime: 184
+lastUpdated: 2025-09-06T11:28:37.101Z
 startTime: 2021-07-12T18:27:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
