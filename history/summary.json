@@ -36,14 +36,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "65.71%",
+    "uptimeYear": "65.67%",
     "time": 487,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 510,
     "dailyMinutesDown": {
-      "2026-02-16": 159,
+      "2026-02-16": 376,
       "2026-02-15": 1440,
       "2026-02-14": 1440,
       "2026-02-13": 1440,
@@ -198,17 +198,19 @@
     "url": "https://keeforce.keeforcecloud.com/jobrouter/#/login",
     "icon": "https://icons.duckduckgo.com/ip3/keeforce.keeforcecloud.com.ico",
     "slug": "kf-jr-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1056,
+    "time": 1055,
     "timeDay": 933,
     "timeWeek": 1043,
     "timeMonth": 1042,
     "timeYear": 1064,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-16": 0
+    }
   }
 ]
