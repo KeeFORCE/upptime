@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 486,
-    "timeDay": 224,
-    "timeWeek": 263,
-    "timeMonth": 276,
-    "timeYear": 504,
+    "timeDay": 477,
+    "timeWeek": 279,
+    "timeMonth": 284,
+    "timeYear": 503,
     "dailyMinutesDown": {
       "2026-03-07": 146,
       "2025-12-06": 32,
@@ -32,18 +32,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/connect.keeforce.com.ico",
     "slug": "connect-wise-manage",
     "status": "down",
-    "uptime": "89.62%",
+    "uptime": "89.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "51.18%",
+    "uptimeYear": "50.91%",
     "time": 486,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 545,
+    "timeYear": 547,
     "dailyMinutesDown": {
-      "2026-04-10": 197,
+      "2026-04-11": 162,
+      "2026-04-10": 1440,
       "2026-04-09": 1440,
       "2026-04-08": 1440,
       "2026-04-07": 1440,
@@ -222,8 +223,7 @@
       "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
-      "2025-10-13": 48,
-      "2025-04-11": 34
+      "2025-10-13": 48
     }
   },
   {
@@ -238,9 +238,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 192,
-    "timeDay": 241,
-    "timeWeek": 214,
-    "timeMonth": 183,
+    "timeDay": 182,
+    "timeWeek": 205,
+    "timeMonth": 180,
     "timeYear": 193,
     "dailyMinutesDown": {}
   },
@@ -256,10 +256,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 1055,
-    "timeDay": 892,
-    "timeWeek": 990,
-    "timeMonth": 1031,
-    "timeYear": 1061,
+    "timeDay": 1134,
+    "timeWeek": 1017,
+    "timeMonth": 1035,
+    "timeYear": 1062,
     "dailyMinutesDown": {
       "2026-02-16": 577
     }
