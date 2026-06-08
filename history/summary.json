@@ -31,18 +31,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/connect.keeforce.com.ico",
     "slug": "connect-wise-manage",
     "status": "down",
-    "uptime": "86.67%",
+    "uptime": "86.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "35.01%",
+    "uptimeYear": "34.79%",
     "time": 501,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 623,
+    "timeYear": 624,
     "dailyMinutesDown": {
-      "2026-06-08": 266,
+      "2026-06-08": 1420,
       "2026-06-07": 1440,
       "2026-06-06": 1440,
       "2026-06-05": 1440,
@@ -288,9 +288,9 @@
     "url": "https://keephone01.keeforce.com/webclient/#/login",
     "icon": "https://icons.duckduckgo.com/ip3/keephone01.keeforce.com.ico",
     "slug": "3-cx-phone",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -299,7 +299,9 @@
     "timeWeek": 307,
     "timeMonth": 291,
     "timeYear": 204,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-08": 0
+    }
   },
   {
     "name": "KF JR Cloud",
